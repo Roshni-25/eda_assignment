@@ -11,4 +11,4 @@
 
 🧠 Future Work Build interactive dashboards using Plotly or Power BI Predict restaurant ratings using Machine Learning Automate data updates from APIs
 
-✨ Author Sada Aizaz 📧 sadaaizaz12@gmail.com 💻 sadaaizaz123
+✨ Author Roshni Yadav 📧 roshniyadavpbt@gmail.com 💻 Roshni-25
